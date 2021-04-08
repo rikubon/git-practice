@@ -1,3 +1,5 @@
 # git-practice
-GitHub上で操作してコンフリクトを起こしていきたいと思います。
+conflict-remote上で更新しています
+コンフリクトを発生させていく
+
 
